@@ -1,0 +1,18 @@
+V 1.0
+
+- Identify the required columns: DONE!
+- Create table to contain the data in the Activity
+- Fill the table with data
+- Make number of SMS to read optional (default: 10)
+- Convert the result to PDF
+- Design configuration file that will contain:
+	* The target SMS title OR number
+	* regex to parse the SMS content
+- Change the application to use the designed configuration file
+- Allow user to supply his own 
+- Publish -> Google Play
+
+
+V 2.0
+
+- Add email support
